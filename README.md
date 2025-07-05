@@ -12,3 +12,6 @@ Model training using algorithms like:
 Logistic Regression
 Evaluation using metrics suited for imbalanced datasets:
 Precision
+
+# Dataset Information 
+Download dataset from Kaggle(#name-credit card fraud detection)
